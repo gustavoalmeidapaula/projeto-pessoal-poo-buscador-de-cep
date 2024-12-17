@@ -1,0 +1,30 @@
+.site-footer {
+    background-color: #202124; /* Cinza Onix */
+    color: #F4F4F9; /* Cinza Gelo */
+    text-align: center;
+    padding: 20px 0;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .footer-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+  }
+  
+  .footer-nav {
+    margin-top: 10px;
+  }
+  
+  .footer-nav a {
+    color: #5865F2; /* Azul Real */
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 14px;
+    transition: color 0.3s;
+  }
+  
+  .footer-nav a:hover {
+    color: #FF6F61; /* Coral Vibrante */
+  }
+  
